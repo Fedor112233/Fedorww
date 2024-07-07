@@ -1,2 +1,1 @@
-# Fedorww
-Fshzhszbz
+Print("hello")
